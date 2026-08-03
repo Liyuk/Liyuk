@@ -29,11 +29,11 @@ I turn ideas into interfaces, bugs into features, and coffee into commits.
 
 <div align="center">
 
-<a href="https://github.com/vuejs/vuepress"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vuejs&repo=vuepress&theme=transparent&hide_border=true" /></a>
-<a href="https://github.com/Mountain-Buzhou/Interview-Book"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mountain-Buzhou&repo=Interview-Book&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/vuejs/vuepress"><img src="https://img.shields.io/badge/vuejs%2Fvuepress-Static%20site%20generator-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /></a>
+<a href="https://github.com/Mountain-Buzhou/Interview-Book"><img src="https://img.shields.io/badge/Mountain--Buzhou%2FInterview--Book-Engineer%27s%20career%20path-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 
-<a href="https://github.com/weNKeRs/OurBook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weNKeRs&repo=OurBook&theme=transparent&hide_border=true" /></a>
-<a href="https://github.com/Liyuk/Jupiter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Liyuk&repo=Jupiter&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/weNKeRs/OurBook"><img src="https://img.shields.io/badge/weNKeRs%2FOurBook-Public%20project-F59E0B?style=for-the-badge&logo=book-open&logoColor=white" /></a>
+<a href="https://github.com/Liyuk/Jupiter"><img src="https://img.shields.io/badge/Liyuk%2FJupiter-JavaScript%20playground-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white" /></a>
 
 </div>
 
@@ -49,8 +49,9 @@ I turn ideas into interfaces, bugs into features, and coffee into commits.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Liyuk&show_icons=true&hide_border=true&theme=transparent&title_color=F59E0B&icon_color=FF7A59&text_color=57534E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyuk&layout=compact&hide_border=true&theme=transparent&title_color=F59E0B&text_color=57534E" />
+<img src="https://img.shields.io/github/stars/Liyuk?style=for-the-badge&label=Total%20stars&color=F59E0B" />
+<img src="https://img.shields.io/github/followers/Liyuk?style=for-the-badge&label=Followers&color=FF7A59" />
+<img src="https://img.shields.io/github/commit-activity/y/Liyuk/Jupiter?style=for-the-badge&label=Yearly%20activity&color=84CC16" />
 
 <br />
 
