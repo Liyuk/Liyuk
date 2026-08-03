@@ -22,7 +22,7 @@ I turn ideas into interfaces, bugs into features, and coffee into commits.
 🎨  Front-end developer who cares about interaction and visual details
 🐍  Python tinkerer, automation enthusiast, and occasional fire thief
 📚  Currently exploring better products, cleaner code, and useful tools
-📍  Beijing, China
+📍  Sunnyvale, USA
 ```
 
 ## 🚀 Featured projects
