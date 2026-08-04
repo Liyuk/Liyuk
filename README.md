@@ -42,9 +42,11 @@ strong engineering organizations, and repeatable execution.
 
 Core contributor to a collaborative engineering knowledge base covering frontend, computer science foundations, system design, and engineering growth. **438+ stars · 76 forks · 133 contributions**
 
+## 🌍 Community leadership
+
 ### [OurBook](https://github.com/weNKers/OurBook)
 
-Core contributor to a public university knowledge-sharing platform built with VuePress. **8+ stars · 6 forks · 77 contributions**
+Led a public-interest university application guidance project from 2011 to 2018, mobilizing a volunteer community of 400–500 contributors to share practical advice and build a collaborative knowledge platform.
 
 ## 🧭 Areas of expertise
 
