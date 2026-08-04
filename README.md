@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE08A,50:FFB347,100:FF7A59&height=180&section=header&text=Liyuk%20%E2%9C%A8&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20%7C%20Python%20%7C%20Fire%20Thief%20%7C%20Magician&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE08A,50:FFB347,100:FF7A59&height=180&section=header&text=Liyuk%20%E2%9C%A8&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Leader%20%7C%20Former%20TikTok%20Tech%20Lead%20%7C%20Global%20Consumer%20%26%20Merchant%20Products%20%7C%20AI%20Productivity&descAlignY=62&descSize=18" width="100%" />
 
 <a href="https://github.com/Liyuk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=620&lines=Building+tiny+things+with+big+ideas+%F0%9F%92%A1;Front-end+developer+who+loves+good+details+%F0%9F%8E%A8;Code%2C+coffee%2C+and+a+little+magic+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=620&lines=Turning+complex+goals+into+clear+execution+%F0%9F%A7%AD;Building+reliable+systems+and+stronger+teams+%F0%9F%8F%97%EF%B8%8F;Exploring+AI-enabled+engineering+productivity+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <p>
   <a href="https://github.com/Liyuk?tab=followers"><img src="https://img.shields.io/github/followers/Liyuk?label=Followers&style=for-the-badge&color=F59E0B&labelColor=292524" /></a>
-  <a href="https://github.com/Liyuk?tab=repositories"><img src="https://img.shields.io/badge/Projects-30-FF7A59?style=for-the-badge&labelColor=292524" /></a>
-  <a href="mailto:lomic28@163.com"><img src="https://img.shields.io/badge/Contact-lomic28%40163.com-84CC16?style=for-the-badge&labelColor=292524" /></a>
+  <a href="mailto:likun.liyuk@gmail.com"><img src="https://img.shields.io/badge/Contact-likun.liyuk%40gmail.com-84CC16?style=for-the-badge&labelColor=292524" /></a>
+  <a href="https://www.linkedin.com/in/liyuk/">LinkedIn</a>
 </p>
 
 </div>
@@ -17,41 +17,53 @@
 ## 🪄 About me
 
 ```text
-I turn ideas into interfaces, bugs into features, and coffee into commits.
+I turn complex business goals into scalable systems,
+strong engineering organizations, and repeatable execution.
 
-🎨  Front-end developer who cares about interaction and visual details
-🐍  Python tinkerer, automation enthusiast, and occasional fire thief
-📚  Currently exploring better products, cleaner code, and useful tools
+🏢  Former TikTok Tech Lead with 8+ years building global products
+🌍  Led 40+ engineers across consumer and merchant product domains
+🏗️  Focused on transaction platforms, reliability, and engineering productivity
+🧑‍🤝‍🧑  Experienced in technical strategy, team building, and cross-functional execution
+🤖  Exploring AI-enabled software development and human-AI collaboration
 📍  Sunnyvale, USA
 ```
 
-## 🚀 Featured projects
+## ✨ Selected impact
+
+- Led a 40+ person engineering organization across global consumer and merchant products
+- Delivered transaction platforms across Indonesia, Japan, and the United States
+- Reduced transaction latency from 1.7s to 0.6s and CI time by 51%
+- Built reliability systems achieving 99.99% SLA and zero P2+ incidents
+- Led AI-enabled engineering adoption, improving unit-test development efficiency by 70%+
+
+## 🧭 Areas of expertise
 
 <div align="center">
 
-<a href="https://github.com/vuejs/vuepress"><img src="https://img.shields.io/badge/vuejs%2Fvuepress-Static%20site%20generator-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /></a>
-<a href="https://github.com/Mountain-Buzhou/Interview-Book"><img src="https://img.shields.io/badge/Mountain--Buzhou%2FInterview--Book-Engineer%27s%20career%20path-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
-
-<a href="https://github.com/weNKeRs/OurBook"><img src="https://img.shields.io/badge/weNKeRs%2FOurBook-Public%20project-F59E0B?style=for-the-badge&logo=book-open&logoColor=white" /></a>
-<a href="https://github.com/Liyuk/Jupiter"><img src="https://img.shields.io/badge/Liyuk%2FJupiter-JavaScript%20playground-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,githubactions,git,github&perline=7" />
 
 </div>
 
-## 🧰 Toolbox
+**Product systems** · Global transaction platforms · Consumer & merchant products · Growth & SEO · Marketing, creator, and operations platforms
 
-<div align="center">
+**Engineering leadership** · Technical strategy · Organization design · Cross-functional execution · Talent development · Operating mechanisms
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,python,nodejs,git,github,vscode&perline=11" />
+**Engineering systems** · Frontend & client architecture · Hybrid / WebView · Reliability · Monitoring & incident response · Modular repositories · CI/CD
 
-</div>
+**AI-enabled development** · AI coding workflows · Agentic SDLC · Automated test generation · Engineering knowledge systems
 
-## 📊 GitHub constellation
+## 🔭 Current focus
+
+- AI-enabled software development and Agentic SDLC
+- Engineering productivity, knowledge systems, and repeatable execution
+- Reliable transaction platforms for global consumer and merchant products
+
+## 📊 GitHub activity
 
 <div align="center">
 
 <img src="https://img.shields.io/github/stars/Liyuk?style=for-the-badge&label=Total%20stars&color=F59E0B" />
 <img src="https://img.shields.io/github/followers/Liyuk?style=for-the-badge&label=Followers&color=FF7A59" />
-<img src="https://img.shields.io/github/commit-activity/y/Liyuk/Jupiter?style=for-the-badge&label=Yearly%20activity&color=84CC16" />
 
 <br />
 
