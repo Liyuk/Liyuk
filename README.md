@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE08A,50:FFB347,100:FF7A59&height=180&section=header&text=Liyuk%20%E2%9C%A8&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Leader%20%7C%20Former%20TikTok%20Tech%20Lead%20%7C%20Global%20Consumer%20%26%20Merchant%20Products%20%7C%20AI%20Productivity&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFE08A,50:FFB347,100:FF7A59&amp;height=180&amp;section=header&amp;text=Liyuk%20%E2%9C%A8&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38" width="100%" />
 
 <a href="https://github.com/Liyuk">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=620&lines=Turning+complex+goals+into+clear+execution+%F0%9F%A7%AD;Building+reliable+systems+and+stronger+teams+%F0%9F%8F%97%EF%B8%8F;Exploring+AI-enabled+engineering+productivity+%F0%9F%A4%96" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 <p>
   <a href="https://github.com/Liyuk?tab=followers"><img src="https://img.shields.io/github/followers/Liyuk?label=Followers&style=for-the-badge&color=F59E0B&labelColor=292524" /></a>
   <a href="mailto:likun.liyuk@gmail.com"><img src="https://img.shields.io/badge/Contact-likun.liyuk%40gmail.com-84CC16?style=for-the-badge&labelColor=292524" /></a>
-  <a href="https://www.linkedin.com/in/liyuk/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/liyuk/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 </div>
