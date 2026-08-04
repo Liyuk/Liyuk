@@ -40,13 +40,13 @@ strong engineering organizations, and repeatable execution.
 
 ### [Interview Book](https://github.com/Mountain-Buzhou/Interview-Book)
 
-Core contributor to a collaborative engineering knowledge base covering frontend, computer science foundations, system design, and engineering growth. **438+ stars · 76 forks · 133 contributions**
+Co-created and maintained a collaborative engineering knowledge base covering frontend, computer science foundations, system design, and engineering growth. **438+ stars · 76 forks · 133 contributions**
 
 ## 🌍 Community leadership
 
 ### [OurBook](https://github.com/weNKers/OurBook)
 
-Led a public-interest university application guidance project from 2011 to 2018, mobilizing a volunteer community of 400–500 contributors to share practical advice and build a collaborative knowledge platform.
+Led a public-interest university admissions guidance initiative from 2011 to 2018, recruiting and coordinating 400–500 volunteers to collect, organize, and share practical advice through a collaborative knowledge platform.
 
 ## 🧭 Areas of expertise
 
