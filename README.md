@@ -44,7 +44,7 @@ Co-created and maintained a collaborative engineering knowledge base covering fr
 
 ### [VuePress](https://github.com/vuejs/vuepress)
 
-Contributed merged bug fix [#510](https://github.com/vuejs/vuepress/pull/510), preventing the search box from throwing an error when no suggestions were available.
+Contributed a merged bug fix to VuePress, improving search behavior and edge-case robustness. ([PR #510](https://github.com/vuejs/vuepress/pull/510))
 
 ## 🌍 Community leadership
 
