@@ -42,6 +42,10 @@ strong engineering organizations, and repeatable execution.
 
 Co-created and maintained a collaborative engineering knowledge base covering frontend, computer science foundations, system design, and engineering growth. **438+ stars · 76 forks · 133 contributions**
 
+### [VuePress](https://github.com/vuejs/vuepress)
+
+Contributed merged bug fix [#510](https://github.com/vuejs/vuepress/pull/510), preventing the search box from throwing an error when no suggestions were available.
+
 ## 🌍 Community leadership
 
 ### [OurBook](https://github.com/weNKers/OurBook)
