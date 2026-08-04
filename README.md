@@ -33,16 +33,6 @@ strong engineering organizations, and repeatable execution.
 - Built reliability systems achieving 99.99% SLA; reduced CI time by 51%
 - Led AI-enabled engineering adoption, improving unit-test development efficiency by 70%+
 
-## 📚 Selected work
-
-### [Interview Book](https://github.com/Mountain-Buzhou/Interview-Book)
-
-Co-created a collaborative engineering knowledge base covering frontend, computer science, system design, and engineering growth. **438+ stars · 76 forks**
-
-### [VuePress](https://github.com/vuejs/vuepress)
-
-Contributed a merged bug fix to VuePress, improving search behavior and edge-case robustness. ([PR #510](https://github.com/vuejs/vuepress/pull/510))
-
 ## 🧭 Areas of expertise
 
 <div align="center">
