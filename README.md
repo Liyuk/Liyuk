@@ -22,35 +22,26 @@ strong engineering organizations, and repeatable execution.
 
 🏢  Former TikTok Tech Lead with 8+ years building global products
 🌍  Led 40+ engineers across consumer and merchant product domains
-🏗️  Focused on transaction platforms, reliability, and engineering productivity
-🧑‍🤝‍🧑  Experienced in technical strategy, team building, and cross-functional execution
-🤖  Exploring AI-enabled software development and human-AI collaboration
+🏗️  Focused on transaction platforms, reliability, and AI-enabled productivity
 📍  Sunnyvale, USA
 ```
 
 ## ✨ Selected impact
 
 - Led a 40+ person engineering organization across global consumer and merchant products
-- Delivered transaction platforms across Indonesia, Japan, and the United States
-- Reduced transaction latency from 1.7s to 0.6s and CI time by 51%
-- Built reliability systems achieving 99.99% SLA and zero P2+ incidents
+- Delivered global transaction platforms and improved transaction latency from 1.7s to 0.6s
+- Built reliability systems achieving 99.99% SLA; reduced CI time by 51%
 - Led AI-enabled engineering adoption, improving unit-test development efficiency by 70%+
 
-## 📚 Selected open-source work
+## 📚 Selected work
 
 ### [Interview Book](https://github.com/Mountain-Buzhou/Interview-Book)
 
-Co-created and maintained a collaborative engineering knowledge base covering frontend, computer science foundations, system design, and engineering growth. **438+ stars · 76 forks · 133 contributions**
+Co-created a collaborative engineering knowledge base covering frontend, computer science, system design, and engineering growth. **438+ stars · 76 forks**
 
 ### [VuePress](https://github.com/vuejs/vuepress)
 
 Contributed a merged bug fix to VuePress, improving search behavior and edge-case robustness. ([PR #510](https://github.com/vuejs/vuepress/pull/510))
-
-## 🌍 Community leadership
-
-### [OurBook](https://github.com/weNKers/OurBook)
-
-Led a public-interest university admissions guidance initiative from 2011 to 2018, recruiting and coordinating 400–500 volunteers to collect, organize, and share practical advice through a collaborative knowledge platform.
 
 ## 🧭 Areas of expertise
 
@@ -60,38 +51,19 @@ Led a public-interest university admissions guidance initiative from 2011 to 201
 
 </div>
 
-**Product systems** · Global transaction platforms · Consumer & merchant products · Growth & SEO · Marketing, creator, and operations platforms
+**Product & engineering leadership** · Global transaction platforms · Consumer & merchant products · Technical strategy · Organization design · Cross-functional execution
 
-**Engineering leadership** · Technical strategy · Organization design · Cross-functional execution · Talent development · Operating mechanisms
-
-**Engineering systems** · Frontend & client architecture · Hybrid / WebView · Reliability · Monitoring & incident response · Modular repositories · CI/CD
-
-**AI-enabled development** · AI coding workflows · Agentic SDLC · Automated test generation · Engineering knowledge systems
-
-## 🔭 Current focus
-
-- AI-enabled software development and Agentic SDLC
-- Engineering productivity, knowledge systems, and repeatable execution
-- Reliable transaction platforms for global consumer and merchant products
+**Engineering systems** · Frontend architecture · Reliability · Monitoring & incident response · Modular repositories · CI/CD · AI-enabled development
 
 ## 📊 GitHub activity
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/Liyuk?style=for-the-badge&label=Total%20stars&color=F59E0B" />
 <img src="https://img.shields.io/github/followers/Liyuk?style=for-the-badge&label=Followers&color=FF7A59" />
 
 <br />
 
 <img src="https://streak-stats.demolab.com?user=Liyuk&theme=transparent&hide_border=true&ring=FFB347&fire=FF7A59&currStreakLabel=F59E0B&sideLabels=57534E&dates=78716C" />
-
-</div>
-
-## 🐍 Contribution trail
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Liyuk/Liyuk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
 </div>
 
