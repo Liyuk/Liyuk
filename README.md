@@ -36,6 +36,16 @@ strong engineering organizations, and repeatable execution.
 - Built reliability systems achieving 99.99% SLA and zero P2+ incidents
 - Led AI-enabled engineering adoption, improving unit-test development efficiency by 70%+
 
+## 📚 Selected open-source work
+
+### [Interview Book](https://github.com/Mountain-Buzhou/Interview-Book)
+
+Core contributor to a collaborative engineering knowledge base covering frontend, computer science foundations, system design, and engineering growth. **438+ stars · 76 forks · 133 contributions**
+
+### [OurBook](https://github.com/weNKers/OurBook)
+
+Core contributor to a public university knowledge-sharing platform built with VuePress. **8+ stars · 6 forks · 77 contributions**
+
 ## 🧭 Areas of expertise
 
 <div align="center">
